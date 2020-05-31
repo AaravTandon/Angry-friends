@@ -1,2 +1,2 @@
-# Angry-friends
-a fun game to take out your anger on freinds!
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
